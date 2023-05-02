@@ -1,0 +1,16 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Log files
+*.log
+
+# Application files
+/data/
+/config/
+/output/
